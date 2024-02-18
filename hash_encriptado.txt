@@ -1,0 +1,1 @@
+encriptar.zip/encriptar.txt:$pkzip$1*2*2*0*2d*21*612fc4e9*0*47*0*2d*6e01*402cfd51044a125f44efd6923e255d024c1f67d9ad62826502b0f74a2886b1262cb12ed0b70a79bc06acb5f546*$/pkzip$:encriptar.txt:encriptar.zip::encriptar.zip
